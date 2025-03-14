@@ -1,8 +1,6 @@
 module github.com/lf-edge/eden
 
-go 1.23.0
-
-toolchain go1.24.1
+go 1.23
 
 require (
 	github.com/Insei/rolgo v0.0.2
